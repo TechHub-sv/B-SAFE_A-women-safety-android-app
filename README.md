@@ -2,8 +2,7 @@
 ## Feel Safe Everywhere
 
 
-Women Safety App is user friendly application built in Android Studio,
-it is simple to implement,easy to understand.
+The Women Safety App is an intuitive, easily navigable Android Studio application that is simple to use and understand.
 
 Price 2500 Rupees Only!
 
