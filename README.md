@@ -7,7 +7,7 @@ it is simple to implement,easy to understand.
 
 Price 2500 Rupees Only!
 
-Blackbook available 500 Rupees!
+Blackbook available 500 Rupees!<br>
 Research paper available 500 Rupees!
 
 Contact Here<br>
