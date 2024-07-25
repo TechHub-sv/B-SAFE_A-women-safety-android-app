@@ -5,7 +5,7 @@
 Women Safety App is user friendly application built in Android Studio,
 it is simple to implement,easy to understand.
 
-Price 4000 Rupees Only!
+Price 2500 Rupees Only!
 
 Blackbook available 500 Rupees!
 Research paper available 500 Rupees!
@@ -16,7 +16,7 @@ CONTACT NO : 9769369978
 [WhatsApp]()
 
 
-[<img src="" />](https://github.com/TechHub-sv)
+[<img src="C:\Users\Viraj\OneDrive\Pictures\Saved Pictures\github page.jpg" />](https://github.com/TechHub-sv)
 
 
 
