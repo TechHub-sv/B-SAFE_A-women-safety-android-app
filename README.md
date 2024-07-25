@@ -16,7 +16,7 @@ CONTACT NO : 9769369978
 [WhatsApp]()
 
 
-[<img src=""C:\Users\Viraj\Downloads\github page.jpg"" />](https://github.com/TechHub-sv)
+[<img src="C:\Users\Viraj\Downloads\github page.jpg"/>](https://github.com/TechHub-sv)
 
 
 
