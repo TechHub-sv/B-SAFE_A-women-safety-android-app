@@ -1,6 +1,8 @@
 # B-SAFE_A-WOMEN-SAFETY-APP
 ## Feel Safe Everywhere
-
+<head>
+  <meta name="google-site-verification" content="hJQuSvpSXLtzf8i3bSQRnTTD8GOTDr05qtbf1CEjELg" />
+</head>
 
 The Women Safety App is an intuitive, easily navigable Android Studio application that is simple to use and understand.
 
